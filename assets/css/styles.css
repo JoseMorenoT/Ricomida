@@ -1,0 +1,105 @@
+p {
+    color: #373a3c;
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#h1-recetas {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+h2 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+h4 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+h5 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+hr {
+    margin: 1rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 2px #373a3c solid;
+    opacity: 1;
+}
+#hr-relacionados {
+    margin: 1rem 350px;
+    color: inherit;
+    border: 0;
+    border-top: 2px #373a3c solid;
+    opacity: 1;
+}
+
+ul {
+    list-style: none;
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#navbar {
+    background-color: #373a3c;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#carrusel {
+    padding: 50px;
+    margin-bottom: 50px
+}
+
+#carrusel .carousel-indicators [data-bs-target] {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: black;
+}
+
+#carrusel .carousel-indicators {
+    bottom: -70px;
+    
+}
+
+#contacto span {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    background-color: #373a3c;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+/*INICIO ESTILOS TOOLTIPS*/
+.custom-tooltip {
+    --bs-tooltip-bg: #373a3c;
+    --bs-tooltip-color: white;
+}
+
+/*FIN ESTILOS TOOLTIPS*/
